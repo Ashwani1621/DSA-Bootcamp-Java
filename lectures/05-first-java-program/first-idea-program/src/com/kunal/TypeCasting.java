@@ -8,9 +8,10 @@ public class TypeCasting {
 //        float num = input.nextFloat();
 //        int num = input.nextInt();
 //        System.out.println(num);
+          input.close();
 
         // type casting
-        int num = (int)(67.56f);
+//       int num = (int)(67.56f);
 //        System.out.println(num);
 
         // automatic type promotion in expressions

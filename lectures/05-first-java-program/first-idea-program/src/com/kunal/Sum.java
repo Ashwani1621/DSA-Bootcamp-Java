@@ -11,5 +11,6 @@ public class Sum {
         float sum = num1 + num2;
 
         System.out.println("Sum = " + sum);
+        input.close();
     }
 }
